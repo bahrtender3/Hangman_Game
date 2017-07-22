@@ -3,4 +3,48 @@
 body{
 
 	background-color: blue;
+	margin: 0;
+	padding: 0;
+	background-image: url("../images/Hawaii-5.jpg");
+}
+
+.header {
+
+	text-align: left;
+	font-size: 75px;
+
+	background-color: none;
+	color: green;
+	width: 100%;
+	margin: 0;
+	padding: 2.5% 0;
+	
+
+}
+
+#displayed-word {
+
+	text-align: center;
+	color: green;
+	margin: 2.5% 0;
+
+}
+
+.top-content {
+
+	width: 100%;
+}
+
+.left-content {
+
+	float: left;
+	width: 50%;
+	margin: 0;
+}
+
+.right-content {
+
+	float: left;
+	width: 50%;
+	margin: 0;
 }

@@ -1,7 +1,4 @@
 
-
-alert("starting script");
-
 var game = {
 
 
